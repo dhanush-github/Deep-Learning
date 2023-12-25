@@ -5,3 +5,7 @@ Algorithms Implemented are Listed Below:
 3. Recurrent Neural Network (RNN)
 4. Long Short term Memory Units (LSTM)
 5. Gated Recurrent Units (GRU)
+6. AutoEncoders
+7. Variational AutoEncoders
+8. Graph Neural Networks (GNN)
+   
